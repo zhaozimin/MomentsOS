@@ -114,6 +114,13 @@ python3 scripts/privacy_check.py
 
 This is a usable open-source skeleton, not a mirror of the author's private production system.
 
+## Context products used by the author
+
+- [VoxTerra · VoiceLog](https://github.com/zhaozimin/VoxTerra) supplies speech-to-text context about what happened that day.
+- [LifeOS](https://github.com/zhaozimin/LifeOS) supplies time, activity, and project context.
+
+MomentsOS reads and organizes that context; it does not replace either recording system.
+
 ## License
 
 [MIT](LICENSE) © 2026 zhaozimin

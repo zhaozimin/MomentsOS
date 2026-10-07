@@ -145,6 +145,13 @@ python3 scripts/privacy_check.py
 
 项目当前是可运行的开源骨架，不是作者私有生产系统的镜像。欢迎围绕新的通用连接器、提示词协议和本地界面提交改进；不要提交任何真实上下文或密钥。
 
+## 作者当前使用的上下文产品
+
+- [言壤 · VoiceLog](https://github.com/zhaozimin/VoxTerra)：提供当天真实发生的语音转写上下文。
+- [LifeOS](https://github.com/zhaozimin/LifeOS)：提供当天时间、活动与项目上下文。
+
+MomentsOS 负责读取与组织上下文，不替代这两个记录系统。
+
 ## License
 
 [MIT](LICENSE) © 2026 zhaozimin
