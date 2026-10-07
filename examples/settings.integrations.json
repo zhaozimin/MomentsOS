@@ -1,0 +1,27 @@
+{
+  "context": {
+    "daily_dir": "$MOMENTSOS_HOME/context/daily",
+    "lookback_days": 3,
+    "max_chars_per_source": 12000,
+    "max_total_chars": 60000,
+    "sources": [
+      {
+        "name": "言壤 VoiceLog",
+        "type": "markdown_dir",
+        "enabled": false,
+        "path": "请替换为言壤中显示的保存位置",
+        "glob": "**/*.md",
+        "lookback_days": 1,
+        "max_files": 5
+      },
+      {
+        "name": "LifeOS",
+        "type": "lifeos",
+        "enabled": false,
+        "base_url": "http://127.0.0.1:59418",
+        "token_env": "LIFEOS_TOKEN",
+        "timeout_seconds": 10
+      }
+    ]
+  }
+}

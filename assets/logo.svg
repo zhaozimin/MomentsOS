@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="MomentsOS">
+<rect width="1024" height="1024" rx="232" fill="#171A22"/>
+<path d="M626.24 482.46 L810.59 727.10 A368 368 0 0 1 571.04 875.23 Z" fill="#FF5A5F"/>
+<path d="M613.67 571.89 L571.04 875.23 A368 368 0 0 1 296.90 810.59 Z" fill="#FF8A1F"/>
+<path d="M541.54 626.24 L296.90 810.59 A368 368 0 0 1 148.77 571.04 Z" fill="#FFC21A"/>
+<path d="M452.11 613.67 L148.77 571.04 A368 368 0 0 1 213.41 296.90 Z" fill="#9BD12E"/>
+<path d="M397.76 541.54 L213.41 296.90 A368 368 0 0 1 452.96 148.77 Z" fill="#2DBE6C"/>
+<path d="M410.33 452.11 L452.96 148.77 A368 368 0 0 1 727.10 213.41 Z" fill="#12B5E6"/>
+<path d="M482.46 397.76 L727.10 213.41 A368 368 0 0 1 875.23 452.96 Z" fill="#4C7DF0"/>
+<path d="M571.89 410.33 L875.23 452.96 A368 368 0 0 1 810.59 727.10 Z" fill="#8B5CF6"/>
+<line x1="571.89" y1="410.33" x2="810.59" y2="727.10" stroke="#171A22" stroke-width="22" stroke-linecap="round"/>
+<line x1="626.24" y1="482.46" x2="571.04" y2="875.23" stroke="#171A22" stroke-width="22" stroke-linecap="round"/>
+<line x1="613.67" y1="571.89" x2="296.90" y2="810.59" stroke="#171A22" stroke-width="22" stroke-linecap="round"/>
+<line x1="541.54" y1="626.24" x2="148.77" y2="571.04" stroke="#171A22" stroke-width="22" stroke-linecap="round"/>
+<line x1="452.11" y1="613.67" x2="213.41" y2="296.90" stroke="#171A22" stroke-width="22" stroke-linecap="round"/>
+<line x1="397.76" y1="541.54" x2="452.96" y2="148.77" stroke="#171A22" stroke-width="22" stroke-linecap="round"/>
+<line x1="410.33" y1="452.11" x2="727.10" y2="213.41" stroke="#171A22" stroke-width="22" stroke-linecap="round"/>
+<line x1="482.46" y1="397.76" x2="875.23" y2="452.96" stroke="#171A22" stroke-width="22" stroke-linecap="round"/>
+<polygon points="571.89 410.33 626.24 482.46 613.67 571.89 541.54 626.24 452.11 613.67 397.76 541.54 410.33 452.11 482.46 397.76" fill="#171A22" stroke="#171A22" stroke-width="22" stroke-linejoin="round"/>
+<circle cx="506.0" cy="512.0" r="58" fill="#FFE9B0"/>
+<circle cx="532.0" cy="496.0" r="50" fill="#171A22"/>
+</svg>

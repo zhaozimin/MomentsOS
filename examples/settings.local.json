@@ -1,0 +1,20 @@
+{
+  "candidate_count": 9,
+  "context": {
+    "daily_dir": "$MOMENTSOS_HOME/context/daily",
+    "lookback_days": 3,
+    "max_chars_per_source": 12000,
+    "max_total_chars": 60000,
+    "sources": []
+  },
+  "model": {
+    "provider": "openai_compatible",
+    "name": "请填写本地模型名",
+    "base_url": "http://127.0.0.1:11434/v1",
+    "api_key_env": "MOMENTSOS_API_KEY",
+    "allow_cloud_context": false,
+    "timeout_seconds": 120,
+    "temperature": 0.7,
+    "json_mode": true
+  }
+}
